@@ -29,7 +29,7 @@ $config['force_https'] = FALSE;
 | 'xml':        Uses simplexml_load_string()
 |
 */
-$config['rest_default_format'] = 'xml';
+$config['rest_default_format'] = 'json';
 
 /*
 |--------------------------------------------------------------------------
